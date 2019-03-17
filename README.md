@@ -2,4 +2,6 @@
 
 ---
 
-### Internal mods used by the commando Kieffer
+### Internal mods' configuration used by the commando Kieffer
+
+#### Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
