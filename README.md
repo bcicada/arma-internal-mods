@@ -4,4 +4,9 @@
 
 ### Internal mods' configuration used by the commando Kieffer
 
-#### Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+##### Released under the Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)
+
+---
+
+This repository only contains the configuration files.
+The arma mods are not publicly published.
