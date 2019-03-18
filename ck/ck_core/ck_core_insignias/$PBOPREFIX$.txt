@@ -1,0 +1,1 @@
+prefix=ck\ck_core\ck_core_insignias

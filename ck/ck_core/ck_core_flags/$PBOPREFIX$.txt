@@ -1,0 +1,7 @@
+///<'kpfs_europe_ui.pbo' properties via Mikero's dos tools, dll version 6.88>///
+prefix=kpfs_europe_ui
+Mikero=DePbo.dll.6.44
+version=17122919
+//Pbo Type is: Arma Addon
+//Sha: 'BA762492C038310C5EC145F9B2DB6646ACC2FB04'
+//////</properties>//////

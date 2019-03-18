@@ -1,0 +1,10 @@
+class CfgSounds
+{
+	sounds[] = {"blanche_hermine"};
+	class blanche_hermine
+	{
+		name = "Blanche Hermine";
+		sound[] = {"blanche_hermine.ogg", 1.0, 1.0};
+		titles[] = {};
+	};
+};
